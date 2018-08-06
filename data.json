@@ -1,0 +1,51 @@
+{
+      "career":{
+        "info":"To ensue a highly profitable career, seeking for a challenging job and healthy work environment where I can utilize my skillsexperience and knowledge efficiently for organizational goal"
+      },
+      "education":[
+        {
+          "Degree":"B.tech(computer science & Engineering)",
+          "Institute":"Siddharth College Of Engineering",
+          "Data":["2015-19","72%"]
+        },
+        {
+          "Degree":"Intermediate (M.p.c)",
+          "Institute":"Sri Sai Jyothi Junior College",
+          "Data":["2013-15","84%"]
+        },
+        {
+          "Degree":"S.S.C",
+          "Institute":"Vasista Vidhyalaya",
+          "Data":["2012-13","90%"]
+        }
+      ],
+      "skills":[
+        {
+          "title":"Programming Languages",
+          "set":["c","Java"]
+        },
+        {
+          "title":"Web Technologies",
+          "set":["Html","css","javascript","AngularJs"]
+        },
+        {
+          "title":"Data Bases",
+          "set":["Oracle","Sql","Mysql"]
+        },
+        {
+          "title":"Operating System",
+          "set":["Windows","Linux","Dos"]
+        }
+      ],
+      "achievements":[
+        {
+          "achievedData":"Got 1 Prize in PPT presentation."
+        },
+        {
+          "achievedData":"Got 1 Prize in Technical Skills."
+        },
+        {
+          "achievedData":"Got 1 Prize in Running race."
+        }
+      ]
+    }
